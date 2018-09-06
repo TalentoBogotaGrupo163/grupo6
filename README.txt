@@ -1,0 +1,5 @@
+APP MEDIO AMBIENTE ENFOCADO A ZONAS PROTEGIDAS
+Realicar aplicación para aprender a reciclar
+Realizar denuncias
+Brindar informacion de programas y actividades
+Directorio de sitios de reciclaje

@@ -1,3 +1,5 @@
+Nombre del proyecto: TEACH GREEN
+
 APP MEDIO AMBIENTE ENFOCADO A ZONAS PROTEGIDAS
 Realicar aplicación para aprender a reciclar
 Realizar denuncias
